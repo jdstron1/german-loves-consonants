@@ -19,3 +19,6 @@ https://github.com/cander91/zungenbrecher-storytime/pull/5
 
 Jennifer Strong (jdstron1)
 https://github.com/rmwells1/german_words/pull/12
+
+Sarah North (snorth2)
+https://github.com/jdstron1/german-loves-consonants/pull/13
